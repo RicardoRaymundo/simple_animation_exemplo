@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+
 import 'package:simple_animations/simple_animations.dart';
 
 //A classe começa com 'My' pois já existe no Flutter o widget CircleAvatar

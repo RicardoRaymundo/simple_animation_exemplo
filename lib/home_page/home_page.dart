@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:simple_animation_exemplo/home_page/topbar/blueBar.dart';
-import 'package:simple_animation_exemplo/home_page/topbar/myCircleAvatar.dart';
+
+import 'package:simple_animation_exemplo/home_page/topbar/blue_bar.dart';
+import 'package:simple_animation_exemplo/home_page/topbar/my_circle_avatar.dart';
 import 'package:simple_animation_exemplo/home_page/home_page_content.dart';
 
 //Neste projeto cada widget de conteudo da pagina tem um controlador de
